@@ -1,2 +1,2 @@
 # dashboard-app
-a tutorial for nest.js and node.js
+a tutorial for next.js and node.js
